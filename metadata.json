@@ -1,0 +1,8 @@
+{
+  "name": "HubDoc Previewer",
+  "description": "A high-performance file previewer and management system inspired by HubFrete. Supports real-time preview of Markdown, PDF, PPTX, XML, and Text files with integrated AI summarization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
